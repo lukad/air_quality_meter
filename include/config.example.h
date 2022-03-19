@@ -1,0 +1,9 @@
+#define MQTT_HOST "localhost"
+#define MQTT_PORT 1883
+#define BASE_TOPIC_AQ "aq/"
+#define BASE_TOPIC_TEMPERATURE "temperature/"
+#define BASE_TOPIC_HUMIDITY "humidity/"
+#define SSID "ssid"
+#define PSK "psk"
+#define SLEEP true
+#define SLEEP_TIME_MS 30000
